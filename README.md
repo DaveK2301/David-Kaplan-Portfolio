@@ -12,6 +12,6 @@ https://github.com/DaveK2301/PCA-ImageRec
 
 https://github.com/DaveK2301/Power-paint
 
-These are  purel intended to be code samples for prospective employers or partners at this time.
+These are purely intended to be code samples for prospective employers or partners at this time.
 
 Thank you!
