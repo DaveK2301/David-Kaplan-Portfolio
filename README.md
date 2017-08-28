@@ -1,11 +1,7 @@
 # David-Kaplan-Portfolio
 A portfolio of coding samples for prospective employers or partners.
 Sample repositories can be found here:
-https://github.com/DaveK2301/C-neural-nets_MLP
-https://github.com/DaveK2301/Fractal-Viewer-Original
-https://github.com/DaveK2301/Fractal-Viewer-Re-Write
-https://github.com/DaveK2301/PCA-ImageRec
-https://github.com/DaveK2301/Power-paint
+https://github.com/DaveK2301/C-neural-nets_MLP, https://github.com/DaveK2301/Fractal-Viewer-Original, https://github.com/DaveK2301/Fractal-Viewer-Re-Write, https://github.com/DaveK2301/PCA-ImageRec, https://github.com/DaveK2301/Power-paint
 
 These are  purel intended to be code samples for prospective employers or partners at this time.
 
