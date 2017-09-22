@@ -14,6 +14,8 @@ https://github.com/DaveK2301/OpenMPI_MatrixMult
 
 https://github.com/DaveK2301/Maze
 
+https://github.com/DaveK2301/Pthreads-MatrixMult
+
 These are purely intended to be code samples for prospective employers or partners at this time.
 
 Thank you!
